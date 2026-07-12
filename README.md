@@ -1,11 +1,27 @@
-# Hi, I'm Vishnu Kaushik 👋
+<div align="center">
 
-Engineering, for me, has always been driven by curiosity.
+<img src="assets/banner.png" alt="Banner" width="100%" />
 
-It started with a simple interest in understanding how hardware and software work together, and over time that curiosity grew into building embedded systems, exploring wireless communication, participating in hackathons, and constantly challenging myself to learn something new.
+<br><br>
 
-I'm currently pursuing Electronics and Communication Engineering, and this GitHub reflects my journey through Embedded Systems, Firmware Development, and IoT. Here, you'll find more than finished projects—you'll find experiments, lessons learned, problems solved, and ideas that continue to evolve.
+# VISHNU KAUSHIK
 
-I don't see engineering as a destination where one day you know everything. Instead, I see it as a continuous process of learning, building, debugging, and improving. This profile is my way of documenting that process, one project at a time.
+### Engineering Ideas into Reality
 
-Thank you for visiting, and I hope you enjoy exploring my work.
+<br>
+
+<p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=850&lines=Embedded+Systems;Firmware+Development;ESP32+Developer;Linux+Enthusiast;Communication+Systems;IoT+Developer;Always+Learning+Something+New" alt="Typing SVG" />
+</p>
+
+<br>
+
+<p>
+<a href="https://github.com/VISHNU-KAUSHIK-S">
+<img src="https://komarev.com/ghpvc/?username=VISHNU-KAUSHIK-S&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+</a>
+</p>
+
+</div>
+
+---
