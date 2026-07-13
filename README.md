@@ -6,121 +6,137 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=1200&color=58A6FF&center=true&vCenter=true&width=900&lines=Embedded+Systems;Firmware+Development;Linux+Learner;ESP32+Developer;Communication+Systems;Always+Building+Something+New"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=1200&color=58A6FF&center=true&vCenter=true&width=900&lines=Embedded+Systems;Firmware+Development;ESP32+Developer;Linux+Learner;Communication+Systems;Building+Real+Projects" alt="Typing SVG"/>
 
-<br>
+<br><br>
 
 <a href="https://github.com/VISHNU-KAUSHIK-S">
-<img src="https://komarev.com/ghpvc/?username=VISHNU-KAUSHIK-S&style=for-the-badge&color=0E75B6"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/vishnu-kaushik-s-050872315">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:vishnukaushik501@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
 
----
+<br>
+
+<table width="100%">
+<tr>
+
+<td width="48%" valign="top">
 
 ## About
 
-I'm an **Electronics & Communication Engineering** undergraduate at **RNS Institute of Technology** with a strong interest in building embedded systems that combine hardware and software.
+```text
+🎓 B.E. Electronics & Communication Engineering
 
-My primary interests lie in **Embedded Systems**, **Firmware Development**, **IoT**, and **Communication Systems**. I enjoy learning by building projects, debugging them, improving them, and documenting the journey.
+🏫 RNS Institute of Technology
 
----
+📚 5th Semester
 
-<table>
-
-<tr>
-
-<td width="50%" valign="top">
-
-## Current Focus
-
-- Embedded C
-
-- Linux
-
-- ESP32 Firmware
-
-- Communication Systems
-
-- Git & GitHub
-
-- Real-world Embedded Projects
+🎯 Aspiring Embedded Firmware Engineer
+```
 
 </td>
 
-<td width="50%" valign="top">
+<td width="52%" valign="top">
 
-## Education
+## Currently Working On
 
 ```text
-Degree
+• Linux
 
-B.E.
-Electronics &
-Communication Engineering
+• Embedded C
 
-----------------------------
+• ESP32 Firmware
 
-College
+• Communication Systems
 
-RNS Institute of Technology
-
-----------------------------
-
-Semester
-
-5th Semester
-
-----------------------------
-
-Goal
-
-Embedded Firmware Engineer
+• Building Portfolio Projects
 ```
 
 </td>
 
 </tr>
-
 </table>
 
----
+<br>
 
-# Tech Stack
+## Tech Stack
 
 <div align="center">
 
-### Languages
-
-<img src="https://skillicons.dev/icons?i=c,cpp,python,bash"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,bash,linux,git,github,vscode,arduino,matlab"/>
 
 <br><br>
 
-### Embedded & Development
+<img src="https://img.shields.io/badge/ESP32-111111?style=for-the-badge"/>
 
-<img src="https://skillicons.dev/icons?i=arduino,linux,git,github,vscode,matlab"/>
+<img src="https://img.shields.io/badge/Embedded_C-111111?style=for-the-badge"/>
 
-<br><br>
+<img src="https://img.shields.io/badge/Verilog-111111?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/ESP32-111111?style=for-the-badge">
+<img src="https://img.shields.io/badge/LoRa-111111?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Embedded_C-111111?style=for-the-badge">
+<img src="https://img.shields.io/badge/UART-111111?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Verilog-111111?style=for-the-badge">
+<img src="https://img.shields.io/badge/SPI-111111?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/LoRa-111111?style=for-the-badge">
-
-<img src="https://img.shields.io/badge/UART-111111?style=for-the-badge">
-
-<img src="https://img.shields.io/badge/SPI-111111?style=for-the-badge">
-
-<img src="https://img.shields.io/badge/I²C-111111?style=for-the-badge">
+<img src="https://img.shields.io/badge/I²C-111111?style=for-the-badge"/>
 
 </div>
 
----
+<br>
 
-# GitHub Analytics
+## Featured Projects
+
+<table width="100%">
+<tr>
+
+<td width="50%" valign="top">
+
+### 🚨 Smart SOS
+
+Offline emergency communication device.
+
+**Tech**
+
+ESP32 • LoRa • GPS
+
+**Status**
+
+🚧 In Development
+
+</td>
+
+<td width="50%" valign="top">
+
+### 💡 Smart Room Automation
+
+Occupancy detection & intelligent automation.
+
+**Tech**
+
+ESP32 • Sensors • Embedded C
+
+**Status**
+
+🚧 In Development
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+## GitHub Analytics
 
 <div align="center">
 
@@ -134,368 +150,22 @@ Embedded Firmware Engineer
 
 </div>
 
----
+<br>
 
-# Featured Projects
-
-<table>
-
-<tr>
-
-<td width="50%" valign="top">
-
-## Smart Room Occupancy System
-
-**Status**
-
-🟢 Active
-
-**Stack**
-
-ESP32
-
-IoT
-
-Embedded C
-
-Machine Learning
-
-Sensors
-
-Communication
-
-</td>
-
-<td width="50%" valign="top">
-
-## Smart SOS Device
-
-**Status**
-
-🟢 Planning & Development
-
-**Stack**
-
-ESP32
-
-LoRa
-
-GPS
-
-Emergency Communication
-
-Embedded Systems
-
-</td>
-
-</tr>
-
-</table>
-
----
-# Learning Journey
-
-<table>
-
-<tr>
-
-<td width="50%" valign="top">
-
-## Currently Learning
-
-- Linux Development
-- Embedded C
-- Firmware Design
-- Git & GitHub
-- Communication Systems
-- ESP32 Development
-
-</td>
-
-<td width="50%" valign="top">
-
-## Interested In
-
-- Embedded Linux
-- Device Drivers
-- RTOS
-- Wireless Communication
-- IoT Systems
-- DSP
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-# Engineering Philosophy
-
-> **Learn → Build → Debug → Improve → Repeat**
-
-I believe the best way to learn engineering is by building practical systems, understanding why they fail, improving them, and documenting every step of the process.
-
----
-
-# Featured Repositories
+## Connect
 
 <div align="center">
 
-| Project | Description |
-|---------|-------------|
-| 🚨 **Smart SOS Device** | Offline emergency communication system using ESP32, LoRa and GPS |
-| 💡 **Smart Room Automation** | Intelligent occupancy detection and automation using ESP32 and sensors |
-| 🐧 **Linux Journey** | My Linux learning notes, commands and mini projects |
-| 💻 **C Programming** | C programs, data structures and problem solving |
-| 🔧 **Embedded Systems** | Firmware experiments and peripheral interfacing |
-| 📡 **Communication Systems** | Digital communication and wireless experiments |
+<a href="mailto:vishnukaushik501@gmail.com">Email</a> •
+<a href="https://www.linkedin.com/in/vishnu-kaushik-s-050872315">LinkedIn</a> •
+<a href="https://github.com/VISHNU-KAUSHIK-S">GitHub</a>
 
 </div>
 
----
-
-# Languages & Technologies
-
-<table>
-
-<tr>
-
-<td align="center" width="20%">
-
-### Programming
-
-C
-
-C++
-
-Python
-
-MATLAB
-
-Verilog
-
-Bash
-
-</td>
-
-<td align="center" width="20%">
-
-### Embedded
-
-ESP32
-
-Arduino
-
-8051
-
-GPIO
-
-Timers
-
-Interrupts
-
-</td>
-
-<td align="center" width="20%">
-
-### Communication
-
-UART
-
-SPI
-
-I²C
-
-LoRa
-
-Wi-Fi
-
-</td>
-
-<td align="center" width="20%">
-
-### Tools
-
-Linux
-
-Git
-
-GitHub
-
-VS Code
-
-Arduino IDE
-
-Multisim
-
-</td>
-
-<td align="center" width="20%">
-
-### Exploring
-
-RTOS
-
-Embedded Linux
-
-Drivers
-
-DSP
-
-IoT
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-# GitHub Activity
+<br>
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VISHNU-KAUSHIK-S&theme=github_dark"/>
-
-<br><br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VISHNU-KAUSHIK-S&theme=github_dark"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VISHNU-KAUSHIK-S&theme=github_dark"/>
-
-</div>
-
----
-
-# Goals for 2026
-
-- Build a strong embedded systems portfolio
-- Develop production-quality firmware projects
-- Master Linux fundamentals
-- Improve debugging and problem-solving skills
-- Contribute consistently on GitHub
-- Learn modern communication protocols
-- Prepare for embedded firmware placements
-
----
-
-# Fun Facts
-
-```text
-Favorite Domain :
-Embedded Systems
-
-Learning Style :
-Build → Break → Fix
-
-Preferred OS :
-Linux
-
-Favorite Hardware :
-ESP32
-
-Mindset :
-Never Stop Learning
-```
-
----
-# Connect With Me
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/vishnu-kaushik-s-050872315">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-&nbsp;
-
-<a href="mailto:vishnukaushik501@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-&nbsp;
-
-<a href="https://github.com/VISHNU-KAUSHIK-S">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-# Support
-
-If you find my projects interesting, consider:
-
-⭐ Starring repositories
-
-🍴 Following my GitHub journey
-
-💬 Sharing suggestions and feedback
-
-🤝 Collaborating on Embedded Systems & IoT projects
-
----
-
-# Current Status
-
-```text
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-Status          : Learning & Building
-
-Current Domain  : Embedded Systems
-
-Primary Platform: ESP32
-
-Operating System: Linux
-
-Version         : v1.0
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
----
-
-# GitHub Contribution Snake
-
-<div align="center">
-
-> *(Enable later after configuring GitHub Actions.)*
-
-![Snake Animation](https://raw.githubusercontent.com/VISHNU-KAUSHIK-S/VISHNU-KAUSHIK-S/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
-# Visitor Counter
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=VISHNU-KAUSHIK-S&style=for-the-badge&color=58A6FF"/>
-
-</div>
-
----
-
-# Quote
-
-<div align="center">
-
-> *"Great engineering isn't built in a day. It's built one iteration at a time."*
-
-</div>
-
----
-
-<div align="center">
-
-## Engineering Ideas into Reality
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0D1117,100:58A6FF&section=footer"/>
+**Engineering Ideas into Reality**
 
 </div>
