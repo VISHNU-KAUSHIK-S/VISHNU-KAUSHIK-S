@@ -31,21 +31,13 @@
 
 <td width="48%" valign="top">
 
-## About
+# About
 
-```text
-🎓 B.E. Electronics & Communication Engineering
+Electronics & Communication Engineering undergraduate at **RNS Institute of Technology**.
 
-🏫 RNS Institute of Technology
+Focused on **Embedded Systems**, **Firmware Development**, **IoT**, and **Communication Systems**.
 
-📚 5th Semester
-
-🎯 Aspiring Embedded Firmware Engineer
-```
-
-</td>
-
-<td width="52%" valign="top">
+Currently learning Linux, Embedded C, and building real-world embedded projects.
 
 ## Currently Working On
 
@@ -68,73 +60,29 @@
 
 <br>
 
-## Tech Stack
+# Tech Stack
 
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=c,cpp,python,bash,linux,git,github,vscode,arduino,matlab"/>
 
-<br><br>
-
-<img src="https://img.shields.io/badge/ESP32-111111?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Embedded_C-111111?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Verilog-111111?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/LoRa-111111?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/UART-111111?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/SPI-111111?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/I²C-111111?style=for-the-badge"/>
-
 </div>
 
-<br>
-
-## Featured Projects
-
-<table width="100%">
-<tr>
-
-<td width="50%" valign="top">
+# Featured Projects
 
 ### 🚨 Smart SOS
 
-Offline emergency communication device.
+Offline emergency communication device using ESP32, LoRa and GPS.
 
-**Tech**
+**Status:** In Development
 
-ESP32 • LoRa • GPS
-
-**Status**
-
-🚧 In Development
-
-</td>
-
-<td width="50%" valign="top">
+---
 
 ### 💡 Smart Room Automation
 
-Occupancy detection & intelligent automation.
+Occupancy detection and intelligent automation using ESP32 and multiple sensors.
 
-**Tech**
-
-ESP32 • Sensors • Embedded C
-
-**Status**
-
-🚧 In Development
-
-</td>
-
-</tr>
-</table>
-
-<br>
+**Status:** In Development
 
 ## GitHub Analytics
 
