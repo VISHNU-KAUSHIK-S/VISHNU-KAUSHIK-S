@@ -25,3 +25,30 @@
 </div>
 
 ---
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=VISHNU-KAUSHIK-S&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
+
+<img height="170em" src="https://streak-stats.demolab.com?user=VISHNU-KAUSHIK-S&theme=github-dark-blue&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=VISHNU-KAUSHIK-S&theme=github-compact&hide_border=true&area=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VISHNU-KAUSHIK-S&layout=compact&theme=github_dark&hide_border=true"/>
+
+</div>
+
+---
