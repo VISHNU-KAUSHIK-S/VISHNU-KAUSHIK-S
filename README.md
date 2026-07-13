@@ -25,27 +25,65 @@
 
 <td width="50%" valign="top">
 
-## > whoami
+<h2 align="center">About</h2>
 
-```yaml
-name: Vishnu Kaushik
+<table>
+<tr>
 
-education:
-  B.E. Electronics &
-  Communication Engineering
+<td width="55%" valign="top">
 
-college:
-  RNS Institute of Technology
+I'm an Electronics & Communication Engineering undergraduate at **RNS Institute of Technology** with a strong interest in **Embedded Systems, Firmware Development, IoT, and Communication Systems**.
 
-semester: 5
+I enjoy building projects that combine hardware and software, while continuously improving my Linux, Embedded C, and system design skills.
 
-goal:
-  Embedded Firmware Engineer
+</td>
+
+<td width="45%" valign="top">
+
+```text
+College   : RNSIT
+
+Semester  : 5
+
+Focus     : Embedded Systems
+
+Learning  : Linux • Embedded C
+
+Goal      : Firmware Engineer
 ```
 
 </td>
 
-<td width="50%" valign="top">
+</tr>
+</table>
+
+---
+
+<h2 align="center">Tech Stack</h2>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=c,cpp,python,bash,linux,git,github,vscode,arduino,matlab"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/ESP32-0D1117?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/Embedded%20C-0D1117?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/LoRa-0D1117?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/UART-0D1117?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/SPI-0D1117?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/I2C-0D1117?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/Verilog-0D1117?style=for-the-badge">
+
+</div>
+
+---
 
 ## > current_mission
 
@@ -68,12 +106,29 @@ goal:
 
 ---
 
-## > technology_matrix
+## 💻 Tech Stack
 
-<table width="100%">
-<tr>
+<div align="center">
 
-<td width="25%" valign="top">
+<img src="https://skillicons.dev/icons?i=c,cpp,python,bash,linux,git,github,vscode,arduino,matlab"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/ESP32-111111?style=for-the-badge&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Embedded_C-111111?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/LoRa-111111?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/UART-111111?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/SPI-111111?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/I²C-111111?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Verilog-111111?style=for-the-badge"/>
+
+</div>
 
 ### Languages
 
