@@ -1,6 +1,6 @@
 <div align="center">
 
-# VISHNU KAUSHIK
+# VISHNU KAUSHIK S
 
 ### Engineering Ideas into Reality
 
