@@ -1,83 +1,124 @@
 <div align="center">
 
-<br>
-
 # VISHNU KAUSHIK S
 
-### ENGINEERING IDEAS INTO REALITY
+### Engineering Ideas into Reality ⚡
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=1200&color=7DA7D9&center=true&vCenter=true&width=850&lines=Embedded+Systems;Firmware+Development;ESP32+%7C+Arduino;IoT+%26+Communication;Linux+%26+Embedded+C;Building+Real+Systems" alt="Typing Animation"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Embedded+Systems+Engineer;Firmware+Development;ESP32+%7C+Arduino;IoT+%26+Communication+Systems;Linux+%26+Embedded+C;Building+Real+Projects" alt="Typing SVG" />
 
-<br><br>
+<br/>
 
-<img src="https://img.shields.io/badge/EMBEDDED%20SYSTEMS-0B1F33?style=for-the-badge&logoColor=E8D8A8"/>
-<img src="https://img.shields.io/badge/FIRMWARE-102A43?style=for-the-badge&logoColor=E8D8A8"/>
-<img src="https://img.shields.io/badge/IoT-16324F?style=for-the-badge&logoColor=E8D8A8"/>
-<img src="https://img.shields.io/badge/COMMUNICATION-193B5A?style=for-the-badge&logoColor=E8D8A8"/>
-
-<br><br>
-
-<a href="https://github.com/VISHNU-KAUSHIK-S">
-<img src="https://img.shields.io/badge/GitHub-091521?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
-</a>
-
-<a href="https://www.linkedin.com/in/vishnu-kaushik-s-050872315">
-<img src="https://img.shields.io/badge/LinkedIn-0B1F33?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"/>
-</a>
-
-<a href="mailto:vishnukaushik501@gmail.com">
-<img src="https://img.shields.io/badge/Email-193B5A?style=for-the-badge&logo=gmail&logoColor=FFFFFF"/>
-</a>
-
-<br><br>
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VISHNU-KAUSHIK-S)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishnu-kaushik-s-050872315)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishnukaushik501@gmail.com)
 
 </div>
 
----
+<br/>
+
+## 👋 About Me
+
+I'm an Electronics & Communication Engineering undergraduate at **RNS Institute of Technology**, focused on building systems where hardware, firmware, and communication meet.
+
+My core interest is **Embedded Systems** and **Firmware Development** — with a growing focus on IoT and communication protocols. I learn by building, testing, breaking, and fixing real projects rather than stopping at theory.
+
+Currently strengthening my fundamentals in:
+
+- `Embedded C` · `Linux` · `ESP32 Firmware`
+- `Communication Protocols` · `Git & Debugging`
+- Real-world embedded projects, end to end
+
+<br/>
+
+## 🏆 Recent Highlight — IIoT Internship
+
+A 13-day, hands-on internship at **Robomanthan** spanning:
+
+`Arduino` `ESP32` `IoT` `MQTT` `RFID` `Python` `OpenCV` `3D Printing`
+
+The internship closed with a team hackathon where we built a **vehicle authentication system** combining OpenCV-based number plate verification with RFID as a second authentication layer. Our team was announced as the **hackathon winner**.
+
+**[→ View the full internship journey, day by day](https://github.com/VISHNU-KAUSHIK-S/iiot-internship)**
+
+<br/>
+
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### ECE • EMBEDDED • FIRMWARE • IoT • COMMUNICATION
-
-<br>
-
-> **Building systems where hardware, firmware and communication come together.**
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![LoRa](https://img.shields.io/badge/LoRa-1E3A8A?style=flat-square)
 
 </div>
 
-<br>
+<br/>
 
----
-
-# 01 · ABOUT
+## 🚀 Featured Projects
 
 <table>
 <tr>
+<td width="50%">
 
-<td width="65%" valign="top">
+### 🚨 Smart SOS
+Offline emergency communication device built around **ESP32 + LoRa + GPS**, designed to work without relying on conventional cellular connectivity.
 
-### 👋 Hello.
-
-I'm **Vishnu Kaushik**, an Electronics & Communication Engineering undergraduate at **RNS Institute of Technology**, Bengaluru.
-
-My primary interest lies in **Embedded Systems and Firmware Development**, with a growing focus on **IoT, communication systems and connected devices**.
-
-I enjoy understanding how a system works from the hardware level upward — from sensors and GPIO to firmware, communication protocols and complete connected applications.
-
-I learn best by **building things, testing them, breaking them, debugging them and building them better**.
+`ESP32` `LoRa` `GPS`
+**Status:** 🔧 In Development
 
 </td>
+<td width="50%">
 
-<td width="35%" valign="top">
+### 💡 Smart Room Automation
+Intelligent room automation using **ESP32** with occupancy sensing, environmental monitoring, and automated lighting/fan control.
 
-### CURRENT FOCUS
+`ESP32` `Sensors` `Automation`
+**Status:** 🔧 In Development
 
-```text
-Embedded C
-     │
-     ├── Linux
-     ├── ESP32
-     ├── Firmware
-     ├── Communication
-     ├── Debugging
-     └── Real Projects
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 🧭 What I'm Building Toward
+
+```
+Embedded Systems
+      │
+      ▼
+Firmware Development → Drivers & Peripherals → Communication Protocols
+      │
+      ▼
+IoT & Connected Devices  +  Linux
+      │
+      ▼
+Placement-Ready Embedded Firmware & Communication Engineer
+```
+
+<br/>
+
+## 📊 GitHub Activity
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=VISHNU-KAUSHIK-S&theme=react-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF" width="95%" alt="Activity Graph" />
+</div>
+
+<br/>
+
+<div align="center">
+
+**Building one system at a time. ⚡**
+
+`Embedded Systems` • `Firmware` • `IoT` • `Communication`
+
+</div>
