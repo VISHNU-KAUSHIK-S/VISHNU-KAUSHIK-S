@@ -2,22 +2,18 @@
 
 # VISHNU KAUSHIK S
 
-### Engineering Ideas into Reality
+### Engineering Ideas into Reality ⚡
 
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=1200&color=58A6FF&center=true&vCenter=true&width=900&lines=Embedded+Systems;Firmware+Development;ESP32+Developer;Linux+Learner;Communication+Systems;Building+Real+Projects" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Embedded+Systems;Firmware+Development;ESP32+%7C+Arduino;IoT+%26+Communication;Linux+%26+Embedded+C;Building+Real+Projects" alt="Typing SVG"/>
 
 <br><br>
 
 <a href="https://github.com/VISHNU-KAUSHIK-S">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
 <a href="https://www.linkedin.com/in/vishnu-kaushik-s-050872315">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
 <a href="mailto:vishnukaushik501@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
@@ -26,65 +22,109 @@
 
 <br>
 
-<table width="100%">
-<tr>
+---
 
-<td width="48%" valign="top">
+## 👋 About Me
 
-# About
+I'm an **Electronics & Communication Engineering undergraduate at RNS Institute of Technology**, interested in building systems where **hardware, firmware and communication come together**.
 
-Electronics & Communication Engineering undergraduate at **RNS Institute of Technology**.
+My primary focus is **Embedded Systems and Firmware Development**, with a growing interest in **IoT, communication systems and connected devices**.
 
-Focused on **Embedded Systems**, **Firmware Development**, **IoT**, and **Communication Systems**.
-
-Currently learning Linux, Embedded C, and building real-world embedded projects.
-
-## Currently Working On
+Currently, I'm working on strengthening my fundamentals in:
 
 ```text
-• Linux
-
-• Embedded C
-
-• ESP32 Firmware
-
-• Communication Systems
-
-• Building Portfolio Projects
+Embedded C     •     Linux
+ESP32 Firmware •     Communication Systems
+Git & Debugging •    Real-World Embedded Projects
 ```
+
+I prefer learning by **building, testing, breaking and fixing things** rather than stopping at theory.
+
+---
+
+## 🏆 Recent Highlight
+
+### IIoT Internship — Robomanthan
+
+A 13-day hands-on journey through:
+
+`Arduino` · `ESP32` · `IoT` · `MQTT` · `RFID` · `Python` · `OpenCV` · `3D Printing`
+
+The internship ended with a team hackathon where we built a **vehicle authentication system** combining **OpenCV-based number plate verification and RFID authentication**.
+
+### 🥇 Hackathon Winner
+
+[**Explore the complete internship →**](https://github.com/VISHNU-KAUSHIK-S/iiot-internship)
+
+---
+
+# 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=c,cpp,python,bash,linux,git,github,vscode,arduino,matlab"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/ESP32-323330?style=for-the-badge&logo=espressif&logoColor=white"/>
+<img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/LoRa-0088CC?style=for-the-badge&logoColor=white"/>
+
+</div>
+
+---
+
+# 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 🚨 Smart SOS
+
+An offline emergency communication system built around **ESP32, LoRa and GPS**, designed for communication without relying on conventional cellular connectivity.
+
+**Status:** `In Development`
+
+</td>
+
+<td width="50%" valign="top">
+
+### 💡 Smart Room Automation
+
+An intelligent room automation system using **ESP32, occupancy sensing, environmental sensors and automated lighting/fan control**.
+
+**Status:** `In Development`
 
 </td>
 
 </tr>
 </table>
 
-<br>
+---
 
-# Tech Stack
+# 🧭 What I'm Building Toward
 
-<div align="center">
+```text
+Embedded Systems
+       │
+       ├── Firmware Development
+       ├── Drivers & Peripherals
+       ├── Communication Protocols
+       ├── IoT & Connected Devices
+       └── Linux
+              ↓
+     Placement-Ready
+     Embedded Engineer
+```
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,bash,linux,git,github,vscode,arduino,matlab"/>
-
-</div>
-
-# Featured Projects
-
-### 🚨 Smart SOS
-
-Offline emergency communication device using ESP32, LoRa and GPS.
-
-**Status:** In Development
+My goal is to become a strong **Embedded Firmware & Communication Engineer** by combining solid fundamentals with increasingly complex real-world projects.
 
 ---
 
-### 💡 Smart Room Automation
-
-Occupancy detection and intelligent automation using ESP32 and multiple sensors.
-
-**Status:** In Development
-
-## GitHub Analytics
+# 📊 GitHub
 
 <div align="center">
 
@@ -98,22 +138,18 @@ Occupancy detection and intelligent automation using ESP32 and multiple sensors.
 
 </div>
 
-<br>
-
-## Connect
+---
 
 <div align="center">
 
-<a href="mailto:vishnukaushik501@gmail.com">Email</a> •
-<a href="https://www.linkedin.com/in/vishnu-kaushik-s-050872315">LinkedIn</a> •
-<a href="https://github.com/VISHNU-KAUSHIK-S">GitHub</a>
+### Building one system at a time. ⚡
 
-</div>
+**Embedded Systems • Firmware • IoT • Communication**
 
 <br>
 
-<div align="center">
-
-**Engineering Ideas into Reality**
+<a href="mailto:vishnukaushik501@gmail.com">Email</a>
+  •   <a href="https://www.linkedin.com/in/vishnu-kaushik-s-050872315">LinkedIn</a>
+  •   <a href="https://github.com/VISHNU-KAUSHIK-S">GitHub</a>
 
 </div>
