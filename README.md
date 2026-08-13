@@ -1,24 +1,20 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0B4F6C,100:58A6FF&height=200&section=header&text=Vishnu%20Kaushik%20S&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Engineering%20Ideas%20into%20Reality%20⚡&descAlignY=58&descSize=18&descColor=8FD3FF" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0D0221,25:FF1B6B,55:7928CA,80:00E5FF,100:0D0221&height=210&section=header&text=Vishnu%20Kaushik%20S&fontSize=44&fontColor=FFFFFF&animation=twinkling&fontAlignY=40&desc=Engineering%20Ideas%20into%20Reality%20⚡&descAlignY=62&descSize=18&descColor=FFEB3B" width="100%"/>
 
-<img src="https://github.com/VISHNU-KAUSHIK-S.png" width="130" style="border-radius:50%;border:3px solid #58A6FF;" alt="Vishnu Kaushik S"/>
-
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=Embedded+Systems+Engineer;Firmware+%2B+IoT+%2B+Communication;ESP32+%7C+Arduino+%7C+Linux;Building+Real+Projects%2C+Not+Just+Reading+Docs" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=22&duration=2600&pause=700&color=FF1B6B&center=true&vCenter=true&width=680&lines=Embedded+Systems+Engineer;Firmware+%2B+IoT+%2B+Communication;ESP32+%7C+Arduino+%7C+Linux;Building+Real+Projects%2C+Not+Just+Reading+Docs" alt="Typing SVG" />
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VISHNU-KAUSHIK-S)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishnu-kaushik-s-050872315)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishnukaushik501@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-0D0221?style=for-the-badge&logo=github&logoColor=00E5FF)](https://github.com/VISHNU-KAUSHIK-S)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D0221?style=for-the-badge&logo=linkedin&logoColor=FF1B6B)](https://www.linkedin.com/in/vishnu-kaushik-s-050872315)
+[![Email](https://img.shields.io/badge/Email-0D0221?style=for-the-badge&logo=gmail&logoColor=FFEB3B)](mailto:vishnukaushik501@gmail.com)
 
 </div>
 
 <br/>
 
-## 👋 About Me
+## 🕸️ About Me
 
 ```yaml
 role: "Electronics & Communication Engineering Undergraduate — RNS Institute of Technology"
@@ -34,7 +30,7 @@ currently_strengthening: ["Embedded C", "Linux", "ESP32 Firmware", "Communicatio
 
 <br/>
 
-## 🏆 Recent Highlight — IIoT Internship
+## 💥 Recent Highlight — IIoT Internship
 
 <table>
 <tr>
@@ -63,22 +59,22 @@ Our team was announced as the **hackathon winner**. 🥇
 
 <br/>
 
-## 🛠️ Tech Stack
+## ⚡ Tech Stack
 
 <div align="center">
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
-![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![LoRa](https://img.shields.io/badge/LoRa-1E3A8A?style=for-the-badge)
+![C](https://img.shields.io/badge/C-0D0221?style=for-the-badge&logo=c&logoColor=00E5FF)
+![C++](https://img.shields.io/badge/C++-0D0221?style=for-the-badge&logo=cplusplus&logoColor=00E5FF)
+![Python](https://img.shields.io/badge/Python-0D0221?style=for-the-badge&logo=python&logoColor=FFEB3B)
+![Bash](https://img.shields.io/badge/Bash-0D0221?style=for-the-badge&logo=gnubash&logoColor=7928CA)
+![Linux](https://img.shields.io/badge/Linux-0D0221?style=for-the-badge&logo=linux&logoColor=FFEB3B)
+![Git](https://img.shields.io/badge/Git-0D0221?style=for-the-badge&logo=git&logoColor=FF1B6B)
+![Arduino](https://img.shields.io/badge/Arduino-0D0221?style=for-the-badge&logo=arduino&logoColor=00E5FF)
+![ESP32](https://img.shields.io/badge/ESP32-0D0221?style=for-the-badge&logo=espressif&logoColor=FF1B6B)
+![MATLAB](https://img.shields.io/badge/MATLAB-0D0221?style=for-the-badge&logo=mathworks&logoColor=00E5FF)
+![MQTT](https://img.shields.io/badge/MQTT-0D0221?style=for-the-badge&logo=mqtt&logoColor=7928CA)
+![OpenCV](https://img.shields.io/badge/OpenCV-0D0221?style=for-the-badge&logo=opencv&logoColor=FF1B6B)
+![LoRa](https://img.shields.io/badge/LoRa-0D0221?style=for-the-badge&logoColor=FFEB3B)
 
 </div>
 
@@ -132,12 +128,12 @@ Placement-Ready Embedded Firmware & Communication Engineer
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=VISHNU-KAUSHIK-S&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VISHNU-KAUSHIK-S&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" width="38%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=VISHNU-KAUSHIK-S&show_icons=true&theme=radical&hide_border=true&bg_color=0D0221" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VISHNU-KAUSHIK-S&layout=compact&theme=radical&hide_border=true&bg_color=0D0221" width="38%"/>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=VISHNU-KAUSHIK-S&theme=react-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF" width="95%" alt="Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=VISHNU-KAUSHIK-S&theme=radical&hide_border=true&bg_color=0D0221&color=FF1B6B&line=00E5FF&point=FFEB3B" width="95%" alt="Activity Graph"/>
 
 </div>
 
@@ -149,6 +145,6 @@ Placement-Ready Embedded Firmware & Communication Engineer
 
 `Embedded Systems` • `Firmware` • `IoT` • `Communication`
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:0F172A&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0D0221,25:00E5FF,55:7928CA,80:FF1B6B,100:0D0221&height=110&section=footer" width="100%"/>
 
 </div>
