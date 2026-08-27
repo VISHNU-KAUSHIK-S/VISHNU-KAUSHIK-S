@@ -36,27 +36,6 @@ engineer:
 
 <br/>
 
-## 🛰️ Signal Path
-
-```mermaid
-graph LR
-    A(["📡 SENSING<br/>GPS · RFID · IR · Cam"]) --> B(["⚙️ FIRMWARE<br/>ESP32 / STM32"])
-    B --> C(["📶 PROTOCOL<br/>LoRa · RF · MQTT · Serial"])
-    C --> D(["🚀 ACTUATION<br/>Motors · ESC · Servo"])
-
-    classDef sensing fill:#0E7490,stroke:#06B6D4,stroke-width:2px,color:#ffffff,font-weight:bold;
-    classDef firmware fill:#1E3A8A,stroke:#3B82F6,stroke-width:2px,color:#ffffff,font-weight:bold;
-    classDef protocol fill:#5B21B6,stroke:#8B5CF6,stroke-width:2px,color:#ffffff,font-weight:bold;
-    classDef actuation fill:#9A3412,stroke:#F97316,stroke-width:2px,color:#ffffff,font-weight:bold;
-
-    class A sensing
-    class B firmware
-    class C protocol
-    class D actuation
-```
-
-<br/>
-
 ## 🏆 Hackathon Winner — Robomanthan IIoT Internship
 
 <table>
