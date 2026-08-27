@@ -113,7 +113,7 @@ Placement-Ready Embedded Firmware & Communication Engineer
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=VISHNU-KAUSHIK-S&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" width="48%" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=VISHNU-KAUSHIK-S&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" width="50%" alt="GitHub Stats" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VISHNU-KAUSHIK-S&layout=compact&theme=github_dark&hide_border=true" width="40%" alt="Top Languages" />
 
