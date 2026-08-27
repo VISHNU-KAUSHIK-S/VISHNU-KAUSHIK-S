@@ -12,6 +12,16 @@
 
 <br/>
 
+<div align="center">
+
+###  Engineering Dreams into Reality 
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1120,25:172554,55:155E75,80:0891B2,100:67E8F9&height=120&section=footer"/>
+
+</div>
+
+<br/>
+
 <img src="https://komarev.com/ghpvc/?username=VISHNU-KAUSHIK-S&style=for-the-badge&color=5B21B6&label=PROFILE+VIEWS" />
 
 </div>
@@ -156,10 +166,4 @@ ESP32-driven automation with occupancy sensing, environmental monitoring, and au
 
 ---
 
-<div align="center">
 
-###  Engineering Dreams into Reality
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1120,25:172554,55:155E75,80:0891B2,100:67E8F9&height=120&section=footer"/>
-
-</div>
