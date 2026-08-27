@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:5B21B6,100:06B6D4&height=220&section=header&text=VISHNU%20KAUSHIK%20S&fontSize=46&fontColor=FFFFFF&fontAlignY=42&desc=Embedded%20Systems%20Engineer%20%E2%80%A2%20Firmware%20%E2%80%A2%20RF%20%2F%20IoT&descAlignY=62&descSize=17&descColor=C4B5FD&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,50:3B82F6,100:6366F1&height=150&section=header&text=VISHNU%20KAUSHIK%20S&fontSize=46&fontColor=FFFFFF&fontAlignY=42&desc=Embedded%20Systems%20Engineer%20%E2%80%A2%20Firmware%20%E2%80%A2%20RF%20%2F%20IoT&descAlignY=62&descSize=17&descColor=C4B5FD&animation=fadeIn"/>
 
 <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=06B6D4&center=true&vCenter=true&width=650&lines=Designing+Firmware+for+Real+Hardware;ESP32+%C3%97+STM32+%C3%97+LoRa+%C3%97+RF+Links;Drones+%7C+IoT+%7C+Secure+Access+Systems;Debug.+Flash.+Repeat." />
 
