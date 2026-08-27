@@ -1,114 +1,80 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:1E3A8A&height=200&section=header&text=Vishnu%20Kaushik%20S&fontSize=48&fontColor=58A6FF&fontAlignY=38&desc=Embedded%20Systems%20%7C%20Firmware%20%7C%20IoT&descAlignY=58&descSize=18&descColor=8B949E&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:5B21B6,100:06B6D4&height=220&section=header&text=VISHNU%20KAUSHIK%20S&fontSize=46&fontColor=FFFFFF&fontAlignY=42&desc=Embedded%20Systems%20Engineer%20%E2%80%A2%20Firmware%20%E2%80%A2%20RF%20%2F%20IoT&descAlignY=62&descSize=17&descColor=C4B5FD&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Embedded+Systems+Engineer;ESP32+%7C+STM32+%7C+Arduino;LoRa+%7C+RF+%7C+Sensor+Fusion;Building+Real+Hardware%2C+Not+Just+Code" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=06B6D4&center=true&vCenter=true&width=650&lines=Designing+Firmware+for+Real+Hardware;ESP32+%C3%97+STM32+%C3%97+LoRa+%C3%97+RF+Links;Drones+%7C+IoT+%7C+Secure+Access+Systems;Debug.+Flash.+Repeat." />
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VISHNU-KAUSHIK-S)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishnu-kaushik-s-050872315)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishnukaushik501@gmail.com)
+<a href="https://github.com/VISHNU-KAUSHIK-S"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=06B6D4" /></a>
+<a href="https://www.linkedin.com/in/vishnu-kaushik-s-050872315"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=5B9CF6" /></a>
+<a href="mailto:vishnukaushik501@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=F87171" /></a>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=VISHNU-KAUSHIK-S&style=for-the-badge&color=5B21B6&label=PROFILE+VIEWS" />
 
 </div>
 
 <br/>
 
-## ⚡ About
+<table align="center">
+<tr><td>
 
-Electronics & Communication Engineering undergrad at **RNS Institute of Technology**, building at the intersection of **hardware, firmware, and communication systems**. I learn by shipping — designing circuits, writing the firmware that drives them, and debugging both until they actually work together.
+```yaml
+engineer:
+  name: Vishnu Kaushik S
+  role: Electronics & Communication Engineering, RNS Institute of Technology
+  focus: [Embedded Systems, Firmware, RF Communication, IoT]
+  philosophy: "Build it, break it, understand why, rebuild it better."
+  currently_learning: [Embedded C, Linux internals, Comm. protocols, Git]
+  status: shipping hardware, one commit at a time ⚡
+```
 
+</td></tr>
+</table>
 
-My core interest is **Embedded Systems** and **Firmware Development** — with a growing focus on IoT and communication protocols. I learn by building, testing, breaking, and fixing real projects rather than stopping at theory.
+<br/>
 
-Currently strengthening my fundamentals in:
+## 🛰️ Signal Path
 
-- `Embedded C` · `Linux` · `ESP32 Firmware`
-- `Communication Protocols` · `Git & Debugging`
-- Real-world embedded projects, end to end
+<div align="center">
 
 ```
-     ┌──────────┐      ┌──────────┐      ┌──────────┐
-     │  Signal  │ ───▶ │Firmware  │ ───▶ │ Hardware │
-     │ Protocol │      │  Logic   │      │  Action  │
-     └──────────┘      └──────────┘      └──────────┘
-        LoRa / RF        ESP32/STM32       Motors/RF/
-        MQTT / Serial     C / C++          Sensors/GPS
+   ┌───────────┐        ┌───────────┐        ┌───────────┐        ┌───────────┐
+   │  SENSING  │  ───▶  │  FIRMWARE │  ───▶  │  PROTOCOL │  ───▶  │  ACTUATION│
+   │  GPS·RFID │        │  ESP32/   │        │  LoRa·RF  │        │  Motors·  │
+   │  IR·Cam   │        │  STM32    │        │  MQTT·Ser │        │  ESC·Servo│
+   └───────────┘        └───────────┘        └───────────┘        └───────────┘
 ```
+
+</div>
 
 <br/>
 
 ## 🏆 Hackathon Winner — Robomanthan IIoT Internship
 
-13-day intensive covering `Arduino` `ESP32` `IoT` `MQTT` `RFID` `Python` `OpenCV` `3D Printing`, capped off by a hackathon build: a **two-factor vehicle access system** pairing OpenCV number-plate recognition with RFID authentication.
-
-**🥇 Result: Hackathon Winner**
-
-**[→ Full day-by-day internship log](https://github.com/VISHNU-KAUSHIK-S/iiot-internship)**
-
-<br/>
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
-![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![LoRa](https://img.shields.io/badge/LoRa-1E3A8A?style=flat-square)
-
-</div>
-
-<br/>
-
-## 🚀 Featured Projects
-
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="70%" valign="top">
 
-### 🚨 Smart SOS
+A 13-day intensive across `Arduino` `ESP32` `IoT` `MQTT` `RFID` `Python` `OpenCV` `3D Printing`, closing with a live hackathon build: a **two-factor vehicle access system** — OpenCV number-plate recognition cross-checked against an RFID-scanned identity before the gate opens.
 
-Offline emergency communication device built around **ESP32 + LoRa + GPS**, designed to work without relying on conventional cellular connectivity.
+**Result → 🥇 Hackathon Winner, Team Build**
 
-**🦅 Project Gandaberunda**
-
-Custom V1 drone — dual-ESP32 control link over ESP-NOW into an STM32 flight controller driving the ESCs.
-
-`ESP32` `STM32` `ESP-NOW`
-**Status:** 🔧 In Progress
+**[↳ Full day-by-day internship log](https://github.com/VISHNU-KAUSHIK-S/iiot-internship)**
 
 </td>
-<td width="33%" valign="top">
+<td width="30%" valign="top">
 
-### 💡 Smart Room Automation
-
-Intelligent room automation using **ESP32** with occupancy sensing, environmental monitoring, and automated lighting/fan control.
-
-**🚨 Smart SOS System**
-
-Offline emergency communicator: LoRa + GPS on ESP32, non-blocking state machine, ACK/retry link layer, no cellular dependency.
-
-`ESP32` `LoRa` `GPS`
-**Status:** 🔧 In Progress
-
-</td>
-<td width="33%" valign="top">
-
-**🔐 Vehicle Access Security**
-
-AI-enabled gate system: RFID + ANPR two-factor auth, ESP32 ↔ Python dashboard over serial.
-
-`ESP32` `RFID` `OpenCV`
-**Status:** ✅ Hackathon Build
+```
+ STATUS
+ ───────────
+ [██████████] 100%
+  DAYS    : 13
+  BUILDS  : 6+
+  RESULT  : WIN 🥇
+```
 
 </td>
 </tr>
@@ -116,61 +82,118 @@ AI-enabled gate system: RFID + ANPR two-factor auth, ESP32 ↔ Python dashboard 
 
 <br/>
 
-## 🛠️ Tech Stack
+## 🚀 Active Builds
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 🦅 Gandaberunda
+**Custom V1 Drone**
+
+Dual-ESP32 control link over **ESP-NOW**, feeding an **STM32** flight controller that drives the ESCs directly.
+
+`ESP32` `STM32` `ESP-NOW`
+
+![](https://img.shields.io/badge/status-in--progress-06B6D4?style=flat-square)
+
+</td>
+<td width="33%" valign="top">
+
+### 🚨 Smart SOS
+**Offline Emergency Comms**
+
+**LoRa + GPS** on ESP32 with a non-blocking state machine and ACK/retry link — works with zero cellular signal.
+
+`ESP32` `LoRa` `GPS`
+
+![](https://img.shields.io/badge/status-in--progress-06B6D4?style=flat-square)
+
+</td>
+<td width="33%" valign="top">
+
+### 🔐 Vehicle Access AI
+**Two-Factor Gate Security**
+
+**RFID + ANPR** cross-verification, ESP32 talking to a Python/OpenCV dashboard over serial.
+
+`ESP32` `RFID` `OpenCV`
+
+![](https://img.shields.io/badge/status-hackathon--build-8B5CF6?style=flat-square)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 🧬 Tech Stack
 
 <div align="center">
 
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+**Languages**
 <br/>
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
-![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)
-![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![LoRa](https://img.shields.io/badge/LoRa-1E3A8A?style=flat-square)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
+![C](https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c&logoColor=06B6D4)
+![C++](https://img.shields.io/badge/C++-0D1117?style=for-the-badge&logo=cplusplus&logoColor=06B6D4)
+![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=5B9CF6)
+![Bash](https://img.shields.io/badge/Bash-0D1117?style=for-the-badge&logo=gnubash&logoColor=8B5CF6)
+
+**Hardware & Firmware**
+<br/>
+![Arduino](https://img.shields.io/badge/Arduino-0D1117?style=for-the-badge&logo=arduino&logoColor=06B6D4)
+![ESP32](https://img.shields.io/badge/ESP32-0D1117?style=for-the-badge&logo=espressif&logoColor=F87171)
+![STM32](https://img.shields.io/badge/STM32-0D1117?style=for-the-badge&logo=stmicroelectronics&logoColor=5B9CF6)
+![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FACC15)
+
+**Comms & Vision**
+<br/>
+![MQTT](https://img.shields.io/badge/MQTT-0D1117?style=for-the-badge&logo=mqtt&logoColor=8B5CF6)
+![LoRa](https://img.shields.io/badge/LoRa-0D1117?style=for-the-badge&logoColor=06B6D4)
+![OpenCV](https://img.shields.io/badge/OpenCV-0D1117?style=for-the-badge&logo=opencv&logoColor=5B9CF6)
+![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F87171)
 
 </div>
 
 <br/>
 
-## 🧭 Roadmap
+## 🧭 Trajectory
+
+<div align="center">
 
 ```
-Embedded Systems → Firmware & Drivers → Communication Protocols → IoT/RF Systems
-                                                                         │
-                                                                         ▼
-                                              Placement-Ready Firmware & Comms Engineer
+Embedded Systems ──▶ Firmware & Drivers ──▶ Comm. Protocols ──▶ IoT / RF Systems
+                                                                        │
+                                                                        ▼
+                                          Placement-Ready Firmware & Comms Engineer
 ```
 
-<br/>
-
-## 📊 GitHub Stats
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=VISHNU-KAUSHIK-S&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&count_private=true" width="49%" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VISHNU-KAUSHIK-S&layout=compact&theme=github_dark&hide_border=true" width="38%" alt="Top Languages" />
-</div>
-
-<img src="https://github-readme-stats.vercel.app/api?username=VISHNU-KAUSHIK-S&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" width="50%" alt="GitHub Stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VISHNU-KAUSHIK-S&layout=compact&theme=github_dark&hide_border=true" width="40%" alt="Top Languages" />
-
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=VISHNU-KAUSHIK-S&theme=github-dark-blue&hide_border=true" width="60%" alt="GitHub Streak"/>
 </div>
 
 <br/>
 
+## 📊 GitHub Analytics
+
 <div align="center">
 
-**Building one system at a time. ⚡**
+<img src="https://github-readme-stats.vercel.app/api?username=VISHNU-KAUSHIK-S&show_icons=true&hide_border=true&bg_color=0D1117&title_color=06B6D4&icon_color=8B5CF6&text_color=C9D1D9&border_radius=10&count_private=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VISHNU-KAUSHIK-S&layout=compact&hide_border=true&bg_color=0D1117&title_color=06B6D4&text_color=C9D1D9&border_radius=10" width="38%" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,100:0F172A&height=100&section=footer" width="100%"/>
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=VISHNU-KAUSHIK-S&hide_border=true&background=0D1117&stroke=0D1117&ring=06B6D4&fire=F87171&currStreakLabel=06B6D4" width="60%" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=VISHNU-KAUSHIK-S&theme=react-dark&bg_color=0D1117&color=06B6D4&line=8B5CF6&point=F87171&hide_border=true" width="90%" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### ⚡ Building one system at a time.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:5B21B6,100:0D1117&height=120&section=footer"/>
 
 </div>
