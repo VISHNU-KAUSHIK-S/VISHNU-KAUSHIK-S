@@ -158,25 +158,6 @@ ESP32-driven automation with occupancy sensing, environmental monitoring, and au
 
 <br/>
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=VISHNU-KAUSHIK-S&show_icons=true&hide_border=true&bg_color=0D1117&title_color=06B6D4&icon_color=8B5CF6&text_color=C9D1D9&border_radius=10" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VISHNU-KAUSHIK-S&layout=compact&hide_border=true&bg_color=0D1117&title_color=06B6D4&text_color=C9D1D9&border_radius=10" width="38%" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=VISHNU-KAUSHIK-S&hide_border=true&background=0D1117&stroke=0D1117&ring=06B6D4&fire=F87171&currStreakLabel=06B6D4&currStreakNum=C9D1D9&sideLabels=C9D1D9&sideNums=C9D1D9&dates=8B949E" width="60%" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=VISHNU-KAUSHIK-S&theme=react-dark&bg_color=0D1117&color=06B6D4&line=8B5CF6&point=F87171&hide_border=true" width="90%" />
-
-</div>
-
-<br/>
-
 <div align="center">
 
 ### ⚡ Building one system at a time.
