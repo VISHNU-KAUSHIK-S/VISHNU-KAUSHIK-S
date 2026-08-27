@@ -14,13 +14,7 @@
 
 <div align="center">
 
-###  Engineering Dreams into Reality 
-
-</div>
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=VISHNU-KAUSHIK-S&style=for-the-badge&color=5B21B6&label=PROFILE+VIEWS" />
+##  Engineering Dreams into Reality 
 
 </div>
 
