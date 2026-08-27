@@ -158,6 +158,8 @@ ESP32-driven automation with occupancy sensing, environmental monitoring, and au
 
 <br/>
 
+---
+
 <div align="center">
 
 ### ⚡ Building one system at a time.
