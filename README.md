@@ -71,8 +71,6 @@ The internship closed with a team hackathon where we built a **vehicle authentic
 
 ### 🚨 Smart SOS
 
-=======
-
 Offline emergency communication device built around **ESP32 + LoRa + GPS**, designed to work without relying on conventional cellular connectivity.
 
 `ESP32` `LoRa` `GPS`
@@ -82,8 +80,6 @@ Offline emergency communication device built around **ESP32 + LoRa + GPS**, desi
 <td width="50%">
 
 ### 💡 Smart Room Automation
-
-=======
 
 Intelligent room automation using **ESP32** with occupancy sensing, environmental monitoring, and automated lighting/fan control.
 
