@@ -160,6 +160,6 @@ ESP32-driven automation with occupancy sensing, environmental monitoring, and au
 
 ### ⚡ Building one system at a time.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:10B981,50:06B6D4,100:F59E0B&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5D4,50:00BBF9,100:7C3AED&height=120&section=footer"/>
 
 </div>
