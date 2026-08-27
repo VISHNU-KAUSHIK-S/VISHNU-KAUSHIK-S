@@ -16,8 +16,6 @@
 
 ###  Engineering Dreams into Reality 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1120,25:172554,55:155E75,80:0891B2,100:67E8F9&height=120&section=footer"/>
-
 </div>
 
 <br/>
@@ -164,6 +162,4 @@ ESP32-driven automation with occupancy sensing, environmental monitoring, and au
 
 <br/>
 
----
-
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1120,25:172554,55:155E75,80:0891B2,100:67E8F9&height=120&section=footer"/>
