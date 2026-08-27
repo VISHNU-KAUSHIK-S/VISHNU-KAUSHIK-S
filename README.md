@@ -38,17 +38,22 @@ engineer:
 
 ## 🛰️ Signal Path
 
-<div align="center">
+```mermaid
+graph LR
+    A(["📡 SENSING<br/>GPS · RFID · IR · Cam"]) --> B(["⚙️ FIRMWARE<br/>ESP32 / STM32"])
+    B --> C(["📶 PROTOCOL<br/>LoRa · RF · MQTT · Serial"])
+    C --> D(["🚀 ACTUATION<br/>Motors · ESC · Servo"])
 
-```
-   ┌───────────┐        ┌───────────┐        ┌───────────┐        ┌───────────┐
-   │  SENSING  │  ───▶  │  FIRMWARE │  ───▶  │  PROTOCOL │  ───▶  │  ACTUATION│
-   │  GPS·RFID │        │  ESP32/   │        │  LoRa·RF  │        │  Motors·  │
-   │  IR·Cam   │        │  STM32    │        │  MQTT·Ser │        │  ESC·Servo│
-   └───────────┘        └───────────┘        └───────────┘        └───────────┘
-```
+    classDef sensing fill:#0E7490,stroke:#06B6D4,stroke-width:2px,color:#ffffff,font-weight:bold;
+    classDef firmware fill:#1E3A8A,stroke:#3B82F6,stroke-width:2px,color:#ffffff,font-weight:bold;
+    classDef protocol fill:#5B21B6,stroke:#8B5CF6,stroke-width:2px,color:#ffffff,font-weight:bold;
+    classDef actuation fill:#9A3412,stroke:#F97316,stroke-width:2px,color:#ffffff,font-weight:bold;
 
-</div>
+    class A sensing
+    class B firmware
+    class C protocol
+    class D actuation
+```
 
 <br/>
 
@@ -86,7 +91,7 @@ A 13-day intensive across `Arduino` `ESP32` `IoT` `MQTT` `RFID` `Python` `OpenCV
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 ### 🦅 Gandaberunda
 **Custom V1 Drone**
@@ -98,7 +103,7 @@ Dual-ESP32 control link over **ESP-NOW**, feeding an **STM32** flight controller
 ![](https://img.shields.io/badge/status-in--progress-06B6D4?style=flat-square)
 
 </td>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 ### 🚨 Smart SOS
 **Offline Emergency Comms**
@@ -110,7 +115,9 @@ Dual-ESP32 control link over **ESP-NOW**, feeding an **STM32** flight controller
 ![](https://img.shields.io/badge/status-in--progress-06B6D4?style=flat-square)
 
 </td>
-<td width="33%" valign="top">
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### 🔐 Vehicle Access AI
 **Two-Factor Gate Security**
@@ -120,6 +127,18 @@ Dual-ESP32 control link over **ESP-NOW**, feeding an **STM32** flight controller
 `ESP32` `RFID` `OpenCV`
 
 ![](https://img.shields.io/badge/status-hackathon--build-8B5CF6?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+### 💡 Smart Room Automation
+**Intelligent Room Control**
+
+ESP32-driven automation with occupancy sensing, environmental monitoring, and automated lighting/fan control.
+
+`ESP32` `Sensors` `Automation`
+
+![](https://img.shields.io/badge/status-complete-10B981?style=flat-square)
 
 </td>
 </tr>
@@ -132,25 +151,29 @@ Dual-ESP32 control link over **ESP-NOW**, feeding an **STM32** flight controller
 <div align="center">
 
 **Languages**
-<br/>
-![C](https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c&logoColor=06B6D4)
-![C++](https://img.shields.io/badge/C++-0D1117?style=for-the-badge&logo=cplusplus&logoColor=06B6D4)
-![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=5B9CF6)
-![Bash](https://img.shields.io/badge/Bash-0D1117?style=for-the-badge&logo=gnubash&logoColor=8B5CF6)
+<br/><br/>
+<img src="https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c&logoColor=06B6D4" height="34"/>
+<img src="https://img.shields.io/badge/C++-0D1117?style=for-the-badge&logo=cplusplus&logoColor=06B6D4" height="34"/>
+<img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=5B9CF6" height="34"/>
+<img src="https://img.shields.io/badge/Bash-0D1117?style=for-the-badge&logo=gnubash&logoColor=8B5CF6" height="34"/>
+
+<br/><br/>
 
 **Hardware & Firmware**
-<br/>
-![Arduino](https://img.shields.io/badge/Arduino-0D1117?style=for-the-badge&logo=arduino&logoColor=06B6D4)
-![ESP32](https://img.shields.io/badge/ESP32-0D1117?style=for-the-badge&logo=espressif&logoColor=F87171)
-![STM32](https://img.shields.io/badge/STM32-0D1117?style=for-the-badge&logo=stmicroelectronics&logoColor=5B9CF6)
-![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FACC15)
+<br/><br/>
+<img src="https://img.shields.io/badge/Arduino-0D1117?style=for-the-badge&logo=arduino&logoColor=06B6D4" height="34"/>
+<img src="https://img.shields.io/badge/ESP32-0D1117?style=for-the-badge&logo=espressif&logoColor=F87171" height="34"/>
+<img src="https://img.shields.io/badge/STM32-0D1117?style=for-the-badge&logo=stmicroelectronics&logoColor=5B9CF6" height="34"/>
+<img src="https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FACC15" height="34"/>
+
+<br/><br/>
 
 **Comms & Vision**
-<br/>
-![MQTT](https://img.shields.io/badge/MQTT-0D1117?style=for-the-badge&logo=mqtt&logoColor=8B5CF6)
-![LoRa](https://img.shields.io/badge/LoRa-0D1117?style=for-the-badge&logoColor=06B6D4)
-![OpenCV](https://img.shields.io/badge/OpenCV-0D1117?style=for-the-badge&logo=opencv&logoColor=5B9CF6)
-![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F87171)
+<br/><br/>
+<img src="https://img.shields.io/badge/MQTT-0D1117?style=for-the-badge&logo=mqtt&logoColor=8B5CF6" height="34"/>
+<img src="https://img.shields.io/badge/LoRa-0D1117?style=for-the-badge&logoColor=06B6D4" height="34"/>
+<img src="https://img.shields.io/badge/OpenCV-0D1117?style=for-the-badge&logo=opencv&logoColor=5B9CF6" height="34"/>
+<img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F87171" height="34"/>
 
 </div>
 
@@ -180,7 +203,7 @@ Embedded Systems ──▶ Firmware & Drivers ──▶ Comm. Protocols ──�
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=VISHNU-KAUSHIK-S&hide_border=true&background=0D1117&stroke=0D1117&ring=06B6D4&fire=F87171&currStreakLabel=06B6D4" width="60%" />
+<img src="https://streak-stats.demolab.com/?user=VISHNU-KAUSHIK-S&hide_border=true&background=0D1117&stroke=0D1117&ring=06B6D4&fire=F87171&currStreakLabel=06B6D4" width="60%" />
 
 <br/><br/>
 
