@@ -131,43 +131,28 @@ ESP32-driven automation with occupancy sensing, environmental monitoring, and au
 
 **Languages**
 <br/><br/>
-<img src="https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c&logoColor=06B6D4" height="34"/>
-<img src="https://img.shields.io/badge/C++-0D1117?style=for-the-badge&logo=cplusplus&logoColor=06B6D4" height="34"/>
-<img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=5B9CF6" height="34"/>
-<img src="https://img.shields.io/badge/Bash-0D1117?style=for-the-badge&logo=gnubash&logoColor=8B5CF6" height="34"/>
+<img src="https://img.shields.io/badge/C-161B22?style=for-the-badge&logo=c&logoColor=06B6D4" height="34"/>
+<img src="https://img.shields.io/badge/C++-161B22?style=for-the-badge&logo=cplusplus&logoColor=06B6D4" height="34"/>
+<img src="https://img.shields.io/badge/Python-161B22?style=for-the-badge&logo=python&logoColor=5B9CF6" height="34"/>
+<img src="https://img.shields.io/badge/Bash-161B22?style=for-the-badge&logo=gnubash&logoColor=8B5CF6" height="34"/>
 
 <br/><br/>
 
 **Hardware & Firmware**
 <br/><br/>
-<img src="https://img.shields.io/badge/Arduino-0D1117?style=for-the-badge&logo=arduino&logoColor=06B6D4" height="34"/>
-<img src="https://img.shields.io/badge/ESP32-0D1117?style=for-the-badge&logo=espressif&logoColor=F87171" height="34"/>
-<img src="https://img.shields.io/badge/STM32-0D1117?style=for-the-badge&logo=stmicroelectronics&logoColor=5B9CF6" height="34"/>
-<img src="https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FACC15" height="34"/>
+<img src="https://img.shields.io/badge/Arduino-161B22?style=for-the-badge&logo=arduino&logoColor=06B6D4" height="34"/>
+<img src="https://img.shields.io/badge/ESP32-161B22?style=for-the-badge&logo=espressif&logoColor=F87171" height="34"/>
+<img src="https://img.shields.io/badge/STM32-161B22?style=for-the-badge&logo=stmicroelectronics&logoColor=5B9CF6" height="34"/>
+<img src="https://img.shields.io/badge/Linux-161B22?style=for-the-badge&logo=linux&logoColor=FACC15" height="34"/>
 
 <br/><br/>
 
 **Comms & Vision**
 <br/><br/>
-<img src="https://img.shields.io/badge/MQTT-0D1117?style=for-the-badge&logo=mqtt&logoColor=8B5CF6" height="34"/>
-<img src="https://img.shields.io/badge/LoRa-0D1117?style=for-the-badge&logoColor=06B6D4" height="34"/>
-<img src="https://img.shields.io/badge/OpenCV-0D1117?style=for-the-badge&logo=opencv&logoColor=5B9CF6" height="34"/>
-<img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F87171" height="34"/>
-
-</div>
-
-<br/>
-
-## 🧭 Trajectory
-
-<div align="center">
-
-```
-Embedded Systems ──▶ Firmware & Drivers ──▶ Comm. Protocols ──▶ IoT / RF Systems
-                                                                        │
-                                                                        ▼
-                                          Placement-Ready Firmware & Comms Engineer
-```
+<img src="https://img.shields.io/badge/MQTT-161B22?style=for-the-badge&logo=mqtt&logoColor=8B5CF6" height="34"/>
+<img src="https://img.shields.io/badge/LoRa-161B22?style=for-the-badge&logoColor=06B6D4" height="34"/>
+<img src="https://img.shields.io/badge/OpenCV-161B22?style=for-the-badge&logo=opencv&logoColor=5B9CF6" height="34"/>
+<img src="https://img.shields.io/badge/Git-161B22?style=for-the-badge&logo=git&logoColor=F87171" height="34"/>
 
 </div>
 
@@ -177,12 +162,12 @@ Embedded Systems ──▶ Firmware & Drivers ──▶ Comm. Protocols ──�
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=VISHNU-KAUSHIK-S&show_icons=true&hide_border=true&bg_color=0D1117&title_color=06B6D4&icon_color=8B5CF6&text_color=C9D1D9&border_radius=10&count_private=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=VISHNU-KAUSHIK-S&show_icons=true&hide_border=true&bg_color=0D1117&title_color=06B6D4&icon_color=8B5CF6&text_color=C9D1D9&border_radius=10" width="48%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VISHNU-KAUSHIK-S&layout=compact&hide_border=true&bg_color=0D1117&title_color=06B6D4&text_color=C9D1D9&border_radius=10" width="38%" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=VISHNU-KAUSHIK-S&hide_border=true&background=0D1117&stroke=0D1117&ring=06B6D4&fire=F87171&currStreakLabel=06B6D4" width="60%" />
+<img src="https://streak-stats.demolab.com/?user=VISHNU-KAUSHIK-S&hide_border=true&background=0D1117&stroke=0D1117&ring=06B6D4&fire=F87171&currStreakLabel=06B6D4&currStreakNum=C9D1D9&sideLabels=C9D1D9&sideNums=C9D1D9&dates=8B949E" width="60%" />
 
 <br/><br/>
 
