@@ -130,29 +130,29 @@ ESP32-driven automation with occupancy sensing, environmental monitoring, and au
 <div align="center">
 
 **Languages**
-<br/><br/>
-<img src="https://img.shields.io/badge/C-161B22?style=for-the-badge&logo=c&logoColor=06B6D4" height="34"/>
-<img src="https://img.shields.io/badge/C++-161B22?style=for-the-badge&logo=cplusplus&logoColor=06B6D4" height="34"/>
-<img src="https://img.shields.io/badge/Python-161B22?style=for-the-badge&logo=python&logoColor=5B9CF6" height="34"/>
-<img src="https://img.shields.io/badge/Bash-161B22?style=for-the-badge&logo=gnubash&logoColor=8B5CF6" height="34"/>
+<br/>
+<img src="https://img.shields.io/badge/C-161B22?style=for-the-badge&logo=c&logoColor=06B6D4" height="40"/>
+<img src="https://img.shields.io/badge/C++-161B22?style=for-the-badge&logo=cplusplus&logoColor=06B6D4" height="40"/>
+<img src="https://img.shields.io/badge/Python-161B22?style=for-the-badge&logo=python&logoColor=5B9CF6" height="40"/>
+<img src="https://img.shields.io/badge/Bash-161B22?style=for-the-badge&logo=gnubash&logoColor=8B5CF6" height="40"/>
 
-<br/><br/>
+<br/>
 
 **Hardware & Firmware**
-<br/><br/>
-<img src="https://img.shields.io/badge/Arduino-161B22?style=for-the-badge&logo=arduino&logoColor=06B6D4" height="34"/>
-<img src="https://img.shields.io/badge/ESP32-161B22?style=for-the-badge&logo=espressif&logoColor=F87171" height="34"/>
-<img src="https://img.shields.io/badge/STM32-161B22?style=for-the-badge&logo=stmicroelectronics&logoColor=5B9CF6" height="34"/>
-<img src="https://img.shields.io/badge/Linux-161B22?style=for-the-badge&logo=linux&logoColor=FACC15" height="34"/>
+<br/>
+<img src="https://img.shields.io/badge/Arduino-161B22?style=for-the-badge&logo=arduino&logoColor=06B6D4" height="40"/>
+<img src="https://img.shields.io/badge/ESP32-161B22?style=for-the-badge&logo=espressif&logoColor=F87171" height="40"/>
+<img src="https://img.shields.io/badge/STM32-161B22?style=for-the-badge&logo=stmicroelectronics&logoColor=5B9CF6" height="40"/>
+<img src="https://img.shields.io/badge/Linux-161B22?style=for-the-badge&logo=linux&logoColor=FACC15" height="40"/>
 
-<br/><br/>
+<br/>
 
 **Comms & Vision**
-<br/><br/>
-<img src="https://img.shields.io/badge/MQTT-161B22?style=for-the-badge&logo=mqtt&logoColor=8B5CF6" height="34"/>
-<img src="https://img.shields.io/badge/LoRa-161B22?style=for-the-badge&logoColor=06B6D4" height="34"/>
-<img src="https://img.shields.io/badge/OpenCV-161B22?style=for-the-badge&logo=opencv&logoColor=5B9CF6" height="34"/>
-<img src="https://img.shields.io/badge/Git-161B22?style=for-the-badge&logo=git&logoColor=F87171" height="34"/>
+<br/>
+<img src="https://img.shields.io/badge/MQTT-161B22?style=for-the-badge&logo=mqtt&logoColor=8B5CF6" height="40"/>
+<img src="https://img.shields.io/badge/LoRa-161B22?style=for-the-badge&logoColor=06B6D4" height="40"/>
+<img src="https://img.shields.io/badge/OpenCV-161B22?style=for-the-badge&logo=opencv&logoColor=5B9CF6" height="40"/>
+<img src="https://img.shields.io/badge/Git-161B22?style=for-the-badge&logo=git&logoColor=F87171" height="40"/>
 
 </div>
 
